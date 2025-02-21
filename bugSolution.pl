@@ -1,0 +1,1 @@
+my %hash = (a => 1, b => 2, c => 3); my @sorted_keys = sort keys %hash; foreach my $key (@sorted_keys) {print "$key\n";} #This will print in sorted order.
