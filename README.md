@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in Perl related to the unordered iteration of hashes.  The `keys` function does not guarantee a consistent order, which can lead to unexpected results if your code relies on a specific key order. The solution provides a method to iterate in a defined order.
